@@ -1,0 +1,56 @@
+*{
+    box-sizing: border-box;
+}
+body{
+   margin: 0;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+header h1{
+
+    text-align: center;
+    font-size: 50px;
+    color: rgb(255, 255, 255);
+}
+header
+{   
+     overflow: hidden;
+      background-color:purple;
+}
+nav
+{
+    background-color: rgb(35, 33, 33);
+    overflow:hidden;
+    position: sticky;
+    top:0;
+    
+}
+nav a{
+    text-decoration: none;
+    float: left;
+    padding: 10px;
+    color: white;
+    
+}
+main
+{   
+    padding: 80px;
+    
+}
+
+
+footer
+{
+    background-color: rgb(35, 33, 33);
+    padding: 20px;
+    overflow: hidden;
+}
+footer a{
+    text-decoration: none;
+    float: left;
+    padding: 10px;
+    color: white;
+    overflow: hidden;
+}
+
