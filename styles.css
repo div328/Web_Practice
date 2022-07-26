@@ -75,7 +75,7 @@ p{
 /* small Screen size */
 
 @media screen and (max-width: 400px) {
-  .rating,#ThankYou{
+  .rating,.ThankYou{
     margin: 25% 10%;
     width:80%;
     padding: 5%;
